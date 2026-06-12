@@ -280,13 +280,6 @@ Several enhancements are planned for future versions of SentinelOPS:
 
 ---
 
-# Demonstration Video
-
-YouTube Demonstration:
-
-https://youtu.be/4ggKs061MCs
-
----
 
 # Project Information
 
@@ -294,7 +287,7 @@ Project Name: SentinelOPS
 
 Project Type: Real-Time SIEM & SOC Monitoring Platform
 
-Developer: Shiva Sai Raj Chinthakuntla
+Developer: Ranjan Das
 
 Associated Platform: CipherNest
 
@@ -306,9 +299,9 @@ Repository Creation Year: 2026
 
 # Author
 
-Shiva Sai Raj Chinthakuntla
+Ranjan Das
 
-Cybersecurity Student | Linux Enthusiast | SOC & Security Engineering Learner
+B.TECH CSE (AIML) | Linux Enthusiast | SOC & Security Engineering Learner
 
 Focused on building practical cybersecurity projects, documenting the learning process, and exploring real-world security monitoring technologies.
 
